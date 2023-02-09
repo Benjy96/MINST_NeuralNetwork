@@ -4,8 +4,6 @@
 - - It's as if people doing NN TRY to make it hard to understand, naming their variables in cryptic acronyms...
 
 # 1Bullet
-- Understand number of neurons etc
-- Understand & comment why need transpose etc for matrix operations
 - Fix gradient descent (accuracy not improving)
 
 # Resources
