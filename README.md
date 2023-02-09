@@ -4,5 +4,11 @@
 - - It's as if people doing NN TRY to make it hard to understand, naming their variables in cryptic acronyms...
 
 # 1Bullet
+- Understand number of neurons etc
 - Understand & comment why need transpose etc for matrix operations
 - Fix gradient descent (accuracy not improving)
+
+# Resources
+https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10
+https://www.youtube.com/watch?v=w8yWXqWQYmU
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/comments
