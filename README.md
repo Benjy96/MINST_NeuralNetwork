@@ -7,6 +7,6 @@
 - Fix gradient descent (accuracy not improving)
 
 # Resources
-https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10
-https://www.youtube.com/watch?v=w8yWXqWQYmU
-https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/comments
+- https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10
+- https://www.youtube.com/watch?v=w8yWXqWQYmU
+- https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/comments
